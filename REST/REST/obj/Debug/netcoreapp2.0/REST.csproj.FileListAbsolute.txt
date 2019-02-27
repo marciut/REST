@@ -1,0 +1,22 @@
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST\REST\bin\Debug\netcoreapp2.0\REST.deps.json
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST\REST\bin\Debug\netcoreapp2.0\REST.runtimeconfig.json
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST\REST\bin\Debug\netcoreapp2.0\REST.runtimeconfig.dev.json
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST\REST\bin\Debug\netcoreapp2.0\REST.dll
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST\REST\bin\Debug\netcoreapp2.0\REST.pdb
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST\REST\obj\Debug\netcoreapp2.0\REST.csprojResolveAssemblyReference.cache
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST\REST\obj\Debug\netcoreapp2.0\REST.csproj.CoreCompileInputs.cache
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST\REST\obj\Debug\netcoreapp2.0\REST.AssemblyInfoInputs.cache
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST\REST\obj\Debug\netcoreapp2.0\REST.AssemblyInfo.cs
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST\REST\obj\Debug\netcoreapp2.0\REST.dll
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST\REST\obj\Debug\netcoreapp2.0\REST.pdb
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST Calculator\REST\obj\Debug\netcoreapp2.0\REST.csprojResolveAssemblyReference.cache
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST Calculator\REST\obj\Debug\netcoreapp2.0\REST.csproj.CoreCompileInputs.cache
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST Calculator\REST\obj\Debug\netcoreapp2.0\REST.AssemblyInfoInputs.cache
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST Calculator\REST\obj\Debug\netcoreapp2.0\REST.AssemblyInfo.cs
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST Calculator\REST\obj\Debug\netcoreapp2.0\REST.dll
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST Calculator\REST\obj\Debug\netcoreapp2.0\REST.pdb
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST Calculator\REST\bin\Debug\netcoreapp2.0\REST.deps.json
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST Calculator\REST\bin\Debug\netcoreapp2.0\REST.runtimeconfig.json
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST Calculator\REST\bin\Debug\netcoreapp2.0\REST.runtimeconfig.dev.json
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST Calculator\REST\bin\Debug\netcoreapp2.0\REST.dll
+C:\Users\marci\Documents\Visual Studio 2017\Projetos Udemy\REST\REST\REST Calculator\REST\bin\Debug\netcoreapp2.0\REST.pdb
